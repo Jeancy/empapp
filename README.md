@@ -1,5 +1,5 @@
 # empapp
-Console based employee management project created with Java, JDBC and MySQL technologies
+Console based employee management project created with Netbeans, Maven, Java, JDBC and MySQL technologies
 This project is good for learners to undersatand how java database connectivity works.
 This project implementes the CRUDE operations in a very simple way.
 You will understand how to connect your java project to mysql database and manipulate the database throug java program.
